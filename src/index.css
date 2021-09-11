@@ -1,0 +1,10 @@
+html{
+    scroll-behavior: smooth;
+    background-color: #020b18;
+}
+@media only screen and (max-width:720px)  {
+    html{
+        width: 100%;
+        margin:0;
+    }
+}

@@ -1,0 +1,133 @@
+.About{
+   height: 35vh;
+   width: 100vw;
+   background-color: rgb(17, 12, 12);
+   display: flex;
+}
+
+.About_About_US{
+    height: 80%;
+    width: 20%;
+    margin: 20px;
+}
+.About_Categories{
+    height: 80%;
+    width: 20%;
+   margin: 20px;
+}
+.About_Platform{
+    height: 80%;
+    width: 20%;
+    margin: 20px;
+}
+.About_Information{
+    height: 80%;
+    width: 20%;
+   margin: 20px;
+}
+.About_About_US_Header{
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: x-large;
+    color:#FF9800;
+
+}
+.About_About_US_Header_para{
+    color: white;
+}
+.About_Categories_Header{
+    color:#FF9800;
+    padding: 10px;
+    
+    text-align: center;
+    font-size: x-large;
+}
+.About_Categories_Header ul{
+     
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        color: white;
+        
+}
+.About_Categories_Header li{
+    margin: 5px;
+}
+.About_Platform_header{
+    color:#FF9800;
+    padding: 10px;
+    
+    text-align: center;
+    font-size: x-large;
+
+}
+.About_Platform_header ul{
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+    
+}
+.About_Platform_header li{
+    margin: 8px;
+}
+.About_Information_Header{
+    color:#FF9800;
+    padding: 10px;
+    
+    text-align: center;
+    font-size: x-large;
+
+}
+.About_Information_Header ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.About_Information_Header li{
+    margin: 5px;
+}
+
+
+@media only screen and (max-width:720px) {
+    .About{
+        /* height: 35vh;
+        width: 100vw;
+        background-color: rgb(34, 29, 29);
+        display: flex; */
+        flex-direction: column;
+        height: auto;
+
+     }
+     
+.About_About_US{
+    height: auto;
+    width: 80%;
+    /* background-color: blue; */
+    /* margin: 20px; */
+    
+}
+.About_Categories{
+    /* height: 80%;
+    width: 20%; */
+    /* background-color: blue; */
+    margin: 20px;
+    height: auto;
+    width: 80%;
+}
+.About_Platform{
+    height: auto;
+    width: 80%;
+    /* background-color: blue; */
+    /* margin: 20px; */
+}
+.About_Information{
+    height:auto;
+    width: 80%;
+    /* background-color: blue; */
+    /* margin: 20px; */
+}
+}

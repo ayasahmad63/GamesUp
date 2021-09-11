@@ -1,0 +1,109 @@
+
+.LandingPage{
+    margin: 0;
+    padding: 0;
+    /* background-color: black; */
+    background-image: url("../../assests//backgrounds/background.jpg");
+    /* background-size: 90% 90%; */
+    height: 100vh;
+    width: 100vw;
+} 
+.Landing_Header{
+    color: white;
+    text-align: center;
+    font-size: 500%;
+    padding-top: 10px;
+}
+.Landing_Header span{
+    color: #FF9800;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+/* .Landing_Navbar{
+    color: white;
+} */
+
+
+    
+
+.Landing_Navbar{
+    
+    text-align: center;
+    margin-top: 2%;
+}
+.Landing_Navbar a{
+    color: white;
+    padding: 1%;
+    text-decoration: none;
+    
+    margin: 30px;
+    border-radius: 95%;
+}
+a:hover {
+    border: 2px solid white;
+}
+
+.Landing_Navbar_Home{
+    border: 2px solid white;
+}
+
+.Landing_page_Quotes{
+    height:auto;
+    width: 25vw;
+    
+    
+    margin-top: 40vh;
+    margin-left: 8vw;
+    color: white;
+    font-size: xx-large;
+}
+.Landing_page_Quotes span{
+    color:#FF9800;
+    /* padding: 50px; */
+}
+@media only screen and (min-width:720px) {
+    .mobilemenu{
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width:720px)
+ {
+    .LandingPage{
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+
+    }
+    .Landing_Header{
+       font-size: 300%;
+    }
+
+    .Landing_page_Quotes{
+        font-size: x-large;
+        
+        height:25vh;
+        width: 35vw;
+        
+        
+        margin-top: 40vh;
+        margin-left: 8vw;
+        color: white;
+      
+    }
+    .Landing_Page_Web_Head{
+        display: none;
+    }
+    .mobilemenu{
+        width: 97vw;
+         height: auto;
+         background-color:  #020b18;
+         /* text-align: center; */
+         margin: 1%;
+    }
+  .mobilemenu img{
+       
+      color:#FF9800;
+      margin-left: 4%;
+  }
+}

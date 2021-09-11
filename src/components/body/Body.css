@@ -1,0 +1,16 @@
+.Body{
+   height: auto;
+   width: fit-content;
+  
+   background-color: #020b18;
+   
+
+}
+@media only  screen and (max-width:720px) {
+    .Body{
+       width: 87vw;
+       margin: 0;
+       padding: 0;
+    }
+   
+}

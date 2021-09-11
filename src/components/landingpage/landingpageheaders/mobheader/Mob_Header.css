@@ -1,0 +1,20 @@
+.Mob_Header_Content{
+    width: 97vw;
+    height: auto;
+    background-color:  #020b18;
+}
+.Mob_option_Anchor{
+    text-decoration: none;
+    color: white;
+    font-size: x-large;
+    margin-left: 10%;
+    margin-bottom: -12px;
+
+}
+.mob_options img{
+    margin-top: 3%;
+
+    margin-bottom: -10px;
+    padding: 5px;
+    height: 40;
+}
