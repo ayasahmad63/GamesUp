@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/GamesUp/static/css/main.90e29f55.chunk.css",
+    "main.js": "/GamesUp/static/js/main.eb309723.chunk.js",
+    "main.js.map": "/GamesUp/static/js/main.eb309723.chunk.js.map",
+    "runtime-main.js": "/GamesUp/static/js/runtime-main.dd55a888.js",
+    "runtime-main.js.map": "/GamesUp/static/js/runtime-main.dd55a888.js.map",
+    "static/js/2.8837ecd5.chunk.js": "/GamesUp/static/js/2.8837ecd5.chunk.js",
+    "static/js/2.8837ecd5.chunk.js.map": "/GamesUp/static/js/2.8837ecd5.chunk.js.map",
+    "index.html": "/GamesUp/index.html",
+    "static/css/main.90e29f55.chunk.css.map": "/GamesUp/static/css/main.90e29f55.chunk.css.map",
+    "static/js/2.8837ecd5.chunk.js.LICENSE.txt": "/GamesUp/static/js/2.8837ecd5.chunk.js.LICENSE.txt",
+    "static/media/A-Plague-Tale-Innocence.jpg": "/GamesUp/static/media/A-Plague-Tale-Innocence.1dae2392.jpg",
+    "static/media/Battleground.jpg": "/GamesUp/static/media/Battleground.00053f2b.jpg",
+    "static/media/Evil-West.jpg": "/GamesUp/static/media/Evil-West.ae65b378.jpg",
+    "static/media/Farming-Simulator.jpg": "/GamesUp/static/media/Farming-Simulator.4568ac42.jpg",
+    "static/media/Insurgency-Sandstorm.jpg": "/GamesUp/static/media/Insurgency-Sandstorm.01208eee.jpg",
+    "static/media/Project-Stage.dd4d3713.svg": "/GamesUp/static/media/Project-Stage.dd4d3713.svg",
+    "static/media/Stick-Fight.jpg": "/GamesUp/static/media/Stick-Fight.38776e6b.jpg",
+    "static/media/Totally-Accurate.jpg": "/GamesUp/static/media/Totally-Accurate.ef1a31df.jpg",
+    "static/media/LandingPage.css": "/GamesUp/static/media/background.4d82f255.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd55a888.js",
+    "static/js/2.8837ecd5.chunk.js",
+    "static/css/main.90e29f55.chunk.css",
+    "static/js/main.eb309723.chunk.js"
+  ]
+}
